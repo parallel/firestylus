@@ -1,0 +1,6 @@
+.git/*
+build/*
+releases/*
+.gitignore
+.zipignore
+Makefile

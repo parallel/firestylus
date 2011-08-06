@@ -1,0 +1,9 @@
+content     firestylus    chrome/content/
+content     firestylus    chrome/content/ contentaccessible=yes
+
+overlay chrome://firebug/content/firebugOverlay.xul chrome://firestylus/content/firestylus.xul
+
+locale  firestylus      en-US   chrome/locale/en-US/
+locale  firestylus      fr-FR   chrome/locale/fr-FR/
+
+skin    firestylus      classic/1.0     chrome/skin/

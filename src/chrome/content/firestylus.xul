@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<overlay id="firestylus-overlay" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+  <script type="application/x-javascript" src="extension.js" />
+  <stringbundleset>
+    <stringbundle id="firestylus-strings" src="chrome://firestylus/locale/firestylus.properties"/>
+  </stringbundleset>
+</overlay>

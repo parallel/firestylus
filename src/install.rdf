@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+  <Description about="urn:mozilla:install-manifest">
+    <em:id>{3a42f67b-d762-4ec0-b02d-a2aae2c0886a}</em:id>
+    <em:type>2</em:type>
+    <em:version>0.0.1</em:version>
+    <em:creator>Julien Kernec'h</em:creator>
+    <em:localized>
+      <Description>
+        <em:locale>en-US</em:locale>
+        <em:name>FireStylus for Firebug</em:name>
+        <em:description>FireStylus allows Firebug to display the original Stylus and line number of the generated CSS styles.</em:description>
+      </Description>
+    </em:localized>
+    <em:localized>
+      <Description>
+        <em:locale>fr-FR</em:locale>
+        <em:name>FireStylus pour Firebug</em:name>
+        <em:description>FireStylus permet &#224; Firebug d'afficher le nom du fichier et le num&#233;ro de ligne des fichiers Stylus originaux dans les css g&#233;n&#233;r&#233;s.</em:description>
+      </Description>
+    </em:localized>
+    <em:homepageURL>http://github.com/parallel/firestylus</em:homepageURL>
+    <em:iconURL>chrome://firestylus/skin/logo.png</em:iconURL>
+    <!-- Firefox -->
+    <em:targetApplication>
+      <Description>
+        <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+        <em:minVersion>3.0</em:minVersion>
+        <em:maxVersion>5.*</em:maxVersion>
+      </Description>
+    </em:targetApplication>
+  </Description>
+</RDF>
