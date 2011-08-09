@@ -1,0 +1,29 @@
+
+@media -stylus-debug-info{filename{font-family:file\:\/\/\/home\/julien\/Projects\/firestylus\/examples\/reset\.styl}line{font-family:\000032}}
+body {
+  margin: 0;
+  padding: 0;
+}
+
+@media -stylus-debug-info{filename{font-family:file\:\/\/\/home\/julien\/Projects\/firestylus\/examples\/typography\.styl}line{font-family:\000032}}
+body {
+  color: #444;
+  font: 14px/22px "helvetica neue", helvetica, arial, sans-serif;
+}
+a {
+  color: #69c;
+}
+
+@media -stylus-debug-info{filename{font-family:file\:\/\/\/home\/julien\/Projects\/firestylus\/examples\/screen\.styl}line{font-family:\000035}}
+h2 {
+  border-top: 3px solid #e9e9e9;
+  margin: 40px 0 0;
+  padding: 10px 0 0;
+}
+
+@media -stylus-debug-info{filename{font-family:file\:\/\/\/home\/julien\/Projects\/firestylus\/examples\/screen\.styl}line{font-family:\0000310}}
+.page {
+  margin: 0 auto;
+  padding: 60px 0;
+  width: 650px;
+}
