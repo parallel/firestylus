@@ -5,7 +5,7 @@ clean:
 package: clean
 	@echo "Packaging the FireStylus extension v$(shell cat Version):\n"
 	@mkdir build
-	@cp -R src/* Version License.txt Readme.md .zipignore build/
+	@cp -R src/* Version License Readme.md .zipignore build/
 	@cd build ; zip -9 -rm firestylus-$(shell cat Version).xpi . -x@.zipignore
 	@echo
 	@echo "  output: build/firestylus-$(shell cat Version).xpi\n"

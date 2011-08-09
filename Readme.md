@@ -8,7 +8,7 @@ rather than those of the generated CSS.
 
 ## Usage
 
-First, you need to install the [FireStylus extension for firebug](//raw.github.com/parallel/firestylus/master/releases/firestylus-0.0.1.xpi).
+First, you need to install the [FireStylus extension for firebug](//raw.github.com/parallel/firestylus/master/releases/firestylus-0.0.2.xpi).
 
 Then you need to install a custom version of stylus :
 
