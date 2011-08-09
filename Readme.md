@@ -8,16 +8,11 @@ rather than those of the generated CSS.
 
 ## Usage
 
-First, you need to install the [FireStylus extension for firebug](//raw.github.com/parallel/firestylus/master/releases/firestylus-0.0.2.xpi).
+First, you need to install 
+[Firebug](https://addons.mozilla.org/firefox/downloads/latest/1843/addon-1843-latest.xpi?src=addondetail)
+and the [FireStylus extension for firebug](//raw.github.com/parallel/firestylus/master/releases/firestylus-0.0.2.xpi).
 
-Then you need to install a custom version of stylus :
-
-	$ sudo npm uninstall stylus -g
-	$ git clone git://github.com/parallel/stylus
-	$ cd stylus
-	$ sudo npm link
-
-Finally, you need to enable the Stylus's `firebug` option 
+Then, you need to enable the Stylus's `firebug` option 
 when generating your CSS.
 
 Command line
@@ -51,14 +46,11 @@ Connect / Express
 
 ## Compatibility
 
-FireStylus currently requires a fork of Stylus.
-
 FireStylus should work with all versions of Firefox after and including 3.0,
 and all Firebug versions after and including 1.4
 
 - Firefox 3+ (also works with version 5)
 - Firebug 1.4+
-- [Stylus fork](//github.com/parallel/stylus)
 
 
 ## Limitations
