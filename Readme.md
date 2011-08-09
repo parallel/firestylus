@@ -10,7 +10,7 @@ rather than those of the generated CSS.
 
 First, you need to install 
 [Firebug](https://addons.mozilla.org/firefox/downloads/latest/1843/addon-1843-latest.xpi?src=addondetail)
-and the [FireStylus extension for firebug](//raw.github.com/parallel/firestylus/master/releases/firestylus-0.0.2.xpi).
+and the [FireStylus extension for firebug](//raw.github.com/parallel/firestylus/master/releases/firestylus-0.0.3.xpi).
 
 Then, you need to enable the Stylus's `firebug` option 
 when generating your CSS.
