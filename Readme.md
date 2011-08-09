@@ -4,6 +4,8 @@ FireStylus is a Firebug extension that makes Firebug display
 the Stylus filename and line numbers of the Stylus-generated CSS styles
 rather than those of the generated CSS.
 
+![Screenshot](//raw.github.com/parallel/firestylus/master/src/chrome/skin/screenshot.png)
+
 ## Usage
 
 First, you need to install the [FireStylus extension for firebug](//raw.github.com/parallel/firestylus/master/releases/firestylus-0.0.1.xpi).
