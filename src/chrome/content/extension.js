@@ -117,6 +117,6 @@ FBL.ns(function() { with (FBL) {
         if (sourceLink.stylusDebugInfo["line"])
             url += "&line=" + sourceLink.stylusDebugInfo["line"];
 
-        window.location = url;
+        FBL.openWindow(url);
     };
 }});

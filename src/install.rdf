@@ -4,22 +4,10 @@
   <Description about="urn:mozilla:install-manifest">
     <em:id>{3a42f67b-d762-4ec0-b02d-a2aae2c0886a}</em:id>
     <em:type>2</em:type>
+    <em:name>FireStylus for Firebug</em:name>
+    <em:description>FireStylus allows Firebug to display the original Stylus and line number of the generated CSS styles.</em:description>
     <em:version>0.0.3</em:version>
-    <em:creator>Julien Kernec'h</em:creator>
-    <em:localized>
-      <Description>
-        <em:locale>en-US</em:locale>
-        <em:name>FireStylus for Firebug</em:name>
-        <em:description>FireStylus allows Firebug to display the original Stylus and line number of the generated CSS styles.</em:description>
-      </Description>
-    </em:localized>
-    <em:localized>
-      <Description>
-        <em:locale>fr-FR</em:locale>
-        <em:name>FireStylus pour Firebug</em:name>
-        <em:description>FireStylus permet &#224; Firebug d'afficher le nom du fichier et le num&#233;ro de ligne des fichiers Stylus originaux dans les css g&#233;n&#233;r&#233;s.</em:description>
-      </Description>
-    </em:localized>
+    <em:creator>Julien Kernec&#039;h</em:creator>
     <em:homepageURL>http://github.com/parallel/firestylus</em:homepageURL>
     <em:iconURL>chrome://firestylus/skin/logo.png</em:iconURL>
     <!-- Firefox -->
